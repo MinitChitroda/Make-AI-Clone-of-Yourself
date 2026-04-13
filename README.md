@@ -74,7 +74,6 @@ Here comes the final part. I am using this wonderful tool [WPP_Whatsapp](https:/
     1. Open the `ai_to_whatsapp.py` file using any text editor.
     2. Go to the 9th line where you will find:
        `my_llm = LLM("my_model", 0.3, 50, 128)`
-
     3. Change `0.3` to a higher value such as `0.9` to increase the temperature (creativity) of the model.
     4. You can also change top_k from `50` to a higher value like `95`.
 
