@@ -1,6 +1,5 @@
 # Make-AI-Clone-of-Yourself
 
-### Full Video Tutorial on [Youtube](https://youtu.be/a2_ZvzE55cA) - <https://youtu.be/a2_ZvzE55cA>
 
 ## Motivation
 
